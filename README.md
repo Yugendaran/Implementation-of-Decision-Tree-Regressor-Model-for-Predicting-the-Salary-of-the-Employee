@@ -8,10 +8,13 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import standard libraries in python for finding Decision tree regressor model for predicting the
+salary of the employee.
+2. Initialize and print the Data.head(),data.info(),data.isnull().sum()
+3. Visualize data value count.
+4. Import sklearn from LabelEncoder.
+5. Split data into training and testing.  
+6. Calculate the MSE Value,r2 Value and  data prediction by importing the required modules from sklearn
 
 ## Program:
 ```
