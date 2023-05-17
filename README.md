@@ -63,7 +63,19 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
-![Decision Tree Regressor Model for Predicting the Salary of the Employee](sam.png)
+![image](https://github.com/Yugendaran/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/128135616/a5c75a84-b0fb-44a7-8b0d-71ec1dd39ef5)
+
+![image](https://github.com/Yugendaran/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/128135616/a53c9b52-b6ea-4ce8-a357-acd1be6f5531)
+
+![image](https://github.com/Yugendaran/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/128135616/c9e9e5e6-0fe7-4fa9-8fc8-3c769a05b527)
+
+![image](https://github.com/Yugendaran/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/128135616/fbd18426-6def-486b-985d-0fd866fd215e)
+
+![image](https://github.com/Yugendaran/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/128135616/a44b6e1c-cb3b-4dae-a09a-56c65ea72a67)
+
+![image](https://github.com/Yugendaran/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/128135616/2468c5e6-89b2-4108-9e27-b6efc9ef597d)
+
+![image](https://github.com/Yugendaran/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/128135616/b5eb9829-f8fe-483d-9c60-268947ceafb3)
 
 
 ## Result:
